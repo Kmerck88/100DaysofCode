@@ -1,0 +1,20 @@
+Int
+
+An int (short for integer) is a whole number. This means the number never shows a decimal point.
+Also, integers can be either positive negative or zero.
+
+3299 -83 2 199
+
+Float
+
+A float is any number that contains a decimal point. Like integers floats can also be positive negative or
+zero
+
+7.0 9.34 19.44 -34.5
+
+Order of operation
+
+
+
+
+
