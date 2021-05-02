@@ -5,7 +5,7 @@
 # color = "blue"
 #
 # # Update Variables- from blue to red
-# color = "Red"
+# color = Red
 #
 # print(color)
 

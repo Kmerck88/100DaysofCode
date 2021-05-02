@@ -1,4 +1,4 @@
-# Write a program that takes a simple password and makes it stronger by replacing characters using the key below, and by appending "q*s" to the end of the input string.
+# Write a program that takes a simple password and makes it stronger by replacing characters using the key below, and by appending q*s" to the end of the input string.
 
 word = input()
 password = ' '

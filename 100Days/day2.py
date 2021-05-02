@@ -10,7 +10,7 @@ text = input()
 charCount = 0
 
 for char in text:
-    if char not in ['', '.', ',']:
+    if char not in [, '.', ',']:
         charCount = charCount + 1
 
 print(charCount)
